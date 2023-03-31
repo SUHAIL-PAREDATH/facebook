@@ -1,0 +1,176 @@
+body{
+    font-family:helvetica neue,Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+.logo{
+    width: 50%;
+    padding-top: 40px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    
+}
+body{
+    margin: 0;
+    font-family:helvetica neue,Arial, Helvetica, sans-serif ;
+    
+}
+.logo-text{
+    font-size:30px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-family:helvetica neue,Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    
+}
+.login-label{
+    color: white;
+    font-size: 15px;
+
+
+}
+.login-controls{
+    margin-left: 200px;
+}
+.login{
+    padding-top:10px ;
+}
+.forgotten{
+    color: wheat;
+    font-size: 14px;
+    text-decoration: none;
+    color: #9cb4d8;
+    
+}
+.submit-button{
+    background-color:#4267b2 ;
+    color: #fff;
+    height: 20px;
+    border-color: #3b5998;
+    cursor: pointer;
+}
+.submit-button:hover{
+    background:blue;
+}
+.left-body{
+    width: 50%;
+    float: left;
+    height: 100vh;
+    
+
+}
+.right-body{
+    width: 50%;
+    float: left;
+    height: 100vh;
+    background-color: aqu;
+    
+}
+.main-body{
+    background: linear-gradient(#D3D8E8,#849ed0);
+    height: 100vh;
+    width:100% ;
+    
+}
+.para{
+    font-size: 21px;
+    padding-left: 134px;
+    padding-top: 52Px;
+    font-weight: bold;
+
+}
+.image{
+    padding-left: 134px;
+    padding-top: 52Px;
+    
+}
+.text1{
+    font-size: 30px;
+}
+.text2{
+    font-size: 20px;
+}
+.form1{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid;
+
+    
+}
+.form2{
+    margin-bottom: 10px;
+    padding-right:  235px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid;
+
+
+}
+.birth{
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+.birt{
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.select1{
+
+    padding: 6px 15px;
+}
+.select2{
+    padding: 6px 24px;
+}
+.select3{
+    padding: 6px 24px;
+}
+.gend{
+    font-weight: 600;
+    padding-top: 16px;
+}
+.gen{
+    padding-bottom: 20px;
+}
+.terms{
+    font-size: small;
+}
+.btn{
+    padding: 8px 50px;
+    font-size: 25px;
+    font-weight: 600;
+    background-color:rgb(14, 71, 14);
+    color: #fff;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(30, 80, 30);
+}
+.icon{
+    
+    font-size: medium;
+    color: #fff;
+    background-color: black;
+    border-radius: 100%;
+    border: solid;
+}
+.span{
+    color: #4267b2;
+}
